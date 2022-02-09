@@ -1,3 +1,6 @@
+<a href="https://github.com/isekai-id/Valorant-Launcher/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=isekai-id/Valorant-Launcher" />
+</a>
 - 👋 Hi, I’m Azwar Anas.
 - 👀 I’m interested in Web Developer, Desktop App.
 - 🌱 I’m currently learning PHP8 Native, PHP7 Native, Java, Object Pascal.
