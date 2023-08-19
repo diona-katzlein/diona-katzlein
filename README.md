@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Azwar Anas.
-- 👀 I’m interested in Web Developer, Desktop App.
-- 🌱 I’m currently learning PHP Native, Java, Object Pascal.
-- 💞️ I’m looking portal to go isekai
-- 📫 How to reach me hello@isekai.id.
+- 👋 Hi, I’m Diona Katzlein.
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diona-katzlein)](https://github.com/diona-katzlein/diona-katzlein)
 
 <!---
 isekai-id/isekai-id is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
