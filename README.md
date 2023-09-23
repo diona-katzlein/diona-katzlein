@@ -1,8 +1,46 @@
-- 👋 Hi, I’m Diona Katzlein.
-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=diona-katzlein&show_icons=true&theme=dark)](https://github.com/diona-katzlein/diona-katzlein)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katzlein)](https://github.com/diona-katzlein/diona-katzlein)
-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dionachan)](https://github.com/diona-katzlein/diona-katzlein)
-<!---
-isekai-id/isekai-id is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://github.com/diona-katzlein"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Hello,+this+diona 👋;Currently+working+at+cat's+tail 😊" alt="UwU">
+</p>
+
+---------
+
+---------
+
+<p align="center">
+<img src="https://img.shields.io/badge/-php-black?style=flat-square&logo=php" />
+
+---------
+
+</p>
+
+
+  ### My statistic
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diona-katzlein&theme=monokai" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dionachan" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diona-katzlein&label=VIEWS&style=flat-square&color=blue" />
+</p>
+
+```js
+
+var bio = `
+
+Name: Diona Katzlein
+From: Mondstadt
+Work: Cat's Tail (Popular bartender of the Cat's Tail)
+Currently learning: php, c++, nodejs
+`
+return bio
+
+
+// Don't bully me 🙏
+
+```
