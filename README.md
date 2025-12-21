@@ -8,6 +8,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/-php-black?style=flat-square&logo=php" />
+<img src="https://img.shields.io/badge/-node.js-black?style=flat-square&logo=node.js" />
 
 ---------
 
